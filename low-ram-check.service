@@ -1,0 +1,8 @@
+[Unit]
+Description=Low RAM warning
+
+[Service]
+ExecStart=/script/path.sh
+
+[Install]
+WantedBy=default.target
