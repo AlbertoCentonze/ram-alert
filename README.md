@@ -2,6 +2,9 @@
 
 A simple bash script that sends a notification to gnome every time you're running low on RAM.
 
+![image](https://user-images.githubusercontent.com/11707683/140624186-a09ec927-7b43-4d3e-9a3a-bfee8046ee8a.png)
+
+
 ## Why did you make this?
 TL;DR I'm too lazy to add a swap partition.
 
