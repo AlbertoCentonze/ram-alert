@@ -35,7 +35,7 @@ sudo systemctl enable low-ram-check
 
 ## Compatibility
 The script has been tested on Arch Linux using systemd and GNOME.
-Technically it should be compatible with basically any distro that supports the `notify-send` command
+Technically it should be compatible with basically any `systemd` based installation with a DE that supports the `notify-send` command.
 
 ## Contribute
 Feel free to make a pull request if you can improve my script! I'm not a bash expert but I'm always open to suggestions and improvements.
